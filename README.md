@@ -10,7 +10,7 @@ These are some of the major technologies that I use or have worked on in the pas
 **Programming Languages**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">
-|--|--|--|--|--|
+|--|--|--|
 
 **Libraries and Frameworks**
 
@@ -31,7 +31,7 @@ These are some of the major technologies that I use or have worked on in the pas
 **Tools**
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="MacOSX" alt="MacOSX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png">|<img title="Windows" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">
-|--|--|--|--|--|--|--|
+|--|--|--|--|--|
 <br>
 
 ## Some of my stats :bar_chart:
