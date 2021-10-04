@@ -15,9 +15,8 @@ These are some of the major technologies that I use or have worked on in the pas
 **Libraries and Frameworks**
 
 <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="ReactJS" alt="ReactJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title=".NET" alt=".NET" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|--|
 <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
-
+|--|--|--|--|--|--|--|--|--|--|
 **Cloud**
 
 <img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">
@@ -31,7 +30,7 @@ These are some of the major technologies that I use or have worked on in the pas
 **Tools**
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="MacOSX" alt="MacOSX" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png">|<img title="Windows" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">
-|--|--|--|--|--|
+|--|--|--|--|--|--|--|
 <br>
 
 ## Some of my stats :bar_chart:
