@@ -1,7 +1,7 @@
 <!-- Aqui em Rainer vou colocar um <a> com o link para um github.io -->
 <h1>Hi There, I am Rainer <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Software Engineer Student** at UniCesumar Genevre, loking forward to graduate in **2022**. Today I'm living temporarily in Brazil but moving back to Switzerland soon.
+I'm a **Software Engineer Student** at UniCesumar Genevre, loking forward to graduate in **June 2023**. Today I'm living temporarily in Brazil but moving back to Switzerland soon.
 
 ## Skill Set
 
